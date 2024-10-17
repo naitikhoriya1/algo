@@ -445,6 +445,13 @@ Thanks to these amazing people who have contributed to the **Algo** project:
                     <sub><b>Samarth Vaidya</b></sub>
                 </a>
             </td>
+	    <td align="center">
+                <a href="https://github.com/naitikhoriya1">
+                    <img src="https://avatars.githubusercontent.com/u/96365582?v=4" width="100;" alt="Naitik khoriya"/>
+                    <br />
+                    <sub><b> Naitik khoriya</b></sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/Bhumika-00">
                     <img src="https://avatars.githubusercontent.com/u/178026966?v=4" width="100;" alt="Bhumika-00"/>
